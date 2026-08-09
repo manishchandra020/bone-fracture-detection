@@ -1,0 +1,8 @@
+django
+pymysql
+torch
+torchvision
+opencv-python
+matplotlib
+numpy
+pandas
